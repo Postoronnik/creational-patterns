@@ -7,12 +7,12 @@ Each package represents each pattern.
 
 Patterns menu:
 
-####-[Factory Method](src/main/java/factory)
+-[Factory Method](src/main/java/factory)
 
-####-[Abstract Factory](src/main/java/abstract_factory)
+-[Abstract Factory](src/main/java/abstract_factory)
 
-####-[Builder](src/main/java/builder)
+-[Builder](src/main/java/builder)
 
-####-[Prototype](src/main/java/prototype)
+-[Prototype](src/main/java/prototype)
 
-####-[Singleton](src/main/java/singletone)
+-[Singleton](src/main/java/singletone)
