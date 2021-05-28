@@ -33,7 +33,8 @@ in a superclass, but allows subclasses to alter the type of objects that will be
 який визначає загальний інтерфейс для створення об’єктів у суперкласі, 
 дозволяючи підкласам змінювати тип створюваних об’єктів.
 
-##Abstract Factory
+Abstract Factory
+-
 
 Abstract Factory is a creational design pattern
 that lets you produce families of related objects 
@@ -43,7 +44,8 @@ without specifying their concrete classes.
 що дає змогу створювати сімейства пов’язаних об’єктів, 
 не прив’язуючись до конкретних класів створюваних об’єктів.
 
-##Builder
+Builder
+-
 
 Builder is a creational design pattern that lets you construct complex objects step by step.
 The pattern allows you to produce different types and representations of an object using the same 
@@ -54,7 +56,8 @@ construction code.
 Будівельник дає можливість використовувати один і 
 той самий код будівництва для отримання різних відображень об’єктів.
 
-##Prototype
+Prototype
+-
 
 Prototype is a creational design pattern that lets you copy existing objects 
 without making your code dependent on their classes.
@@ -62,7 +65,8 @@ without making your code dependent on their classes.
 Прототип — це породжувальний патерн проектування, 
 що дає змогу копіювати об’єкти, не вдаючись у подробиці їхньої реалізації.
 
-##Singleton
+Singleton
+-
 
 Singleton is a creational design pattern that lets 
 you ensure that a class has only one instance, 
