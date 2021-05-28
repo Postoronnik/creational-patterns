@@ -35,7 +35,7 @@ ___
 який визначає загальний інтерфейс для створення об’єктів у суперкласі, 
 дозволяючи підкласам змінювати тип створюваних об’єктів.
 
-# Abstract Factory
+## Abstract Factory
 
 
 Abstract Factory is a creational design pattern
