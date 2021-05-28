@@ -1,4 +1,4 @@
-#Creational Design Patterns
+# Creational Design Patterns
 
 In this project presented all behavioral patterns with simple realization.
 These examples are more for visual representation of how they are working.
@@ -29,12 +29,14 @@ Factory Method
 Factory Method is a creational design pattern that provides an interface for creating objects 
 in a superclass, but allows subclasses to alter the type of objects that will be created.
 
+___
+
 Фабричний метод — це породжувальний патерн проектування, 
 який визначає загальний інтерфейс для створення об’єктів у суперкласі, 
 дозволяючи підкласам змінювати тип створюваних об’єктів.
 
-Abstract Factory
--
+# Abstract Factory
+
 
 Abstract Factory is a creational design pattern
 that lets you produce families of related objects 
